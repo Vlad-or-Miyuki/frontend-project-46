@@ -14,5 +14,4 @@ program
 program.parse();
 
 const diff = genDiff(filepath1, filepath2);
-
-console.log(diff)
+console.log(diff);
